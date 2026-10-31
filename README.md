@@ -1,14 +1,6 @@
-![Ahmed Khames - Network Engineer](banner.png)
-
-<h1 align="center">Hi, I'm Ahmed Khames 👋</h1>
-
-<h3 align="center">🌐 Aspiring Network Engineer | CCNA Student</h3>
-
 <p align="center">
-  Passionate about Networking, IT Infrastructure, and Network Security.
+  <img src="https://raw.githubusercontent.com/ahmedkhamed66666-hue/Ahmed-Khamis/main/Banner.png" width="100%" alt="Ahmed Khames - Network Engineer">
 </p>
-
----
 
 ## 👨‍💻 About Me
 
